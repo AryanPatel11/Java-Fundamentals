@@ -42,6 +42,7 @@ public class SwitchStructure {
                 System.out.println("Enter a valid initial!!!");
         }
         
+        //closing the scanner object
         sc.close();
     }
 }
